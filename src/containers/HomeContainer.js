@@ -53,7 +53,7 @@ const HomeContainer = () => {
             <PostCreator />
 
             <div className="row">
-              <div className="col-md-6">
+              <div className="col-md-12">
                 <NewsFeed />
               </div>
             </div>
