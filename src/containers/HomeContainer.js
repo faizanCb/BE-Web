@@ -56,6 +56,9 @@ const HomeContainer = () => {
               <div className="col-md-12">
                 <NewsFeed />
               </div>
+              {/* <div className="col-md-6">
+                <NewsFeed />
+              </div> */}
             </div>
           </div>
         </div>

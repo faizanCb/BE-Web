@@ -7,7 +7,7 @@ const PostCreator = () => {
         <form action="...">
           <textarea
             className="form-control input-lg no-border"
-            rows={2}
+            rows={4}
             placeholder="What are you doing?..."
             defaultValue={""}
           />
